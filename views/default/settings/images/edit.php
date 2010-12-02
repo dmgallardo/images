@@ -1,3 +1,7 @@
+<?php 
+/*
+?>
+
 <p>
 <?php 
 
@@ -21,3 +25,7 @@ echo elgg_view('input/pulldown', array(	'internalname' => 'params[param]',
 				));
 ?>
 </p>
+
+<?php 
+*/
+?>

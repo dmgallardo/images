@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin_manifest>
-    <field key="author" value="Administrator" />
+    <field key="author" value="Diego Gallardo" />
     <field key="version" value="0.1" />
     <field key="description" value="This plugin allow you to add images to your plugins in an easy way" />
-    <field key="website" value="www.twitter.com/demege" />
-    <field key="copyright" value="(C) Administrator 2009" />
-    <field key="licence" value="License here" />
-    <field key="elgg_version" value="2009030702" />    
+    <field key="website" value="http://github.com/demege" />
+    <field key="copyright" value="(C) Diego Gallardo 2010" />
+    <field key="licence" value="GNU Public License version 2" />
+    <field key="elgg_version" value="2010030101" />    
 </plugin_manifest>
