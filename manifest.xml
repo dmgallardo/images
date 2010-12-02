@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+    <field key="author" value="Administrator" />
+    <field key="version" value="0.1" />
+    <field key="description" value="This plugin allow you to add images to your plugins in an easy way" />
+    <field key="website" value="www.twitter.com/demege" />
+    <field key="copyright" value="(C) Administrator 2009" />
+    <field key="licence" value="License here" />
+    <field key="elgg_version" value="2009030702" />    
+</plugin_manifest>
